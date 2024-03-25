@@ -1,1 +1,1 @@
-This is the read me for Project 1.
+Project 1 details the analysis of stroke, diabetes and hypertension data from the BBSF survey
