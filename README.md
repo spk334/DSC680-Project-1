@@ -6,8 +6,8 @@ diabetes_data.csv
 Data decodes listed in data_decode.xlsx
 
 Project contains 
-  Proposal for data and analysis 
-  Jupyter Workbook for EDA and modeling 
-  White Paper of project
-  Q & A of project 
-  Presentation with Voice of project 
+  1. Proposal for data and analysis 
+  2. Jupyter Workbook for EDA and modeling 
+  3. White Paper of project
+  4. Q & A of project 
+  5. Presentation with Voice of project 
